@@ -46,7 +46,7 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
 
             //PAGE TRANSITION INDICATOR
             Positioned(
-              bottom: MediaQuery.of(context).size.height * 0.19,
+              bottom: 140,
               left: 0,
               right: 0,
               child: onBoardNotifier.isLastPage

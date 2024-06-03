@@ -27,7 +27,7 @@ class Pagetwo extends StatelessWidget {
           SizedBox(height: 25,),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20),
-            child: Text("Our platform makes it easy for you to \nsearch, connect, and adopt your furry \n                         soulmate. ",
+            child: Text("Our platform makes it easy for you to search, connect, and adopt your furry soulmate. ",
             style: TextStyle(
               fontSize: 18,
               fontWeight: FontWeight.w400,

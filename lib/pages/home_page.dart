@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
       }
     } else {
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Please enter a price and fetch an image')),
+        SnackBar(content: Text('Please enter a price')),
       );
     }
   }

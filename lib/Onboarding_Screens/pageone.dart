@@ -27,7 +27,7 @@ class Pageone extends StatelessWidget {
           SizedBox(height: 25,),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20),
-            child: Text("We're here to help you find the perfect \n furry friend that will fill your life with \n                       love and joy. ",
+            child: Text("We're here to help you find the perfect furry friend that will fill your life with love and joy. ",
             style: TextStyle(
               fontSize: 18,
               fontWeight: FontWeight.w400,
